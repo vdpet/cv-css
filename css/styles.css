@@ -139,6 +139,10 @@ strong {
   size: 10px;
 }
 
+p.order strong{
+  color: #025955;
+}
+
 .profile {
   margin: 100px auto 100px auto;
   width: 50%;
